@@ -1,0 +1,9 @@
+@Ice04_HostAddress = http://localhost:5258
+
+GET {{Ice04_HostAddress}}/weatherforecast/
+Accept: application/json
+
+GET {{Ice04_HostAddress}}/staff/1
+Accept: application/json
+
+###
